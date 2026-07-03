@@ -9,7 +9,7 @@ Free, no account, no login.
 
 [**⬇ Download for Windows**](https://vinyl.bigg.dev/VinylSetup.exe) · [vinyl.bigg.dev](https://vinyl.bigg.dev) · [Changelog](https://vinyl.bigg.dev/changelog)
 
-<img src="https://vinyl.bigg.dev/shot_now.png" width="360" alt="Vinyl — now playing">
+<img src="screenshots/now.png" width="360" alt="Vinyl — now playing">
 
 </div>
 
@@ -30,6 +30,18 @@ Free, no account, no login.
 
 Works with Spotify **Free or Premium** and every other player — Vinyl reads
 playback from Windows itself, so there's nothing to connect or sign into.
+
+## Screenshots
+
+<div align="center">
+<img src="screenshots/profile.png" width="330" alt="A music profile with badges, a live 'listening right now' card, top songs and top artists">
+&nbsp;&nbsp;
+<img src="screenshots/top50.png" width="330" alt="The Weekly Top 50 leaderboard with live listening indicators">
+</div>
+
+*Real profiles and a real leaderboard — the live "listening right now" card
+updates as your friends play, with EQ bars on the board for anyone
+listening at that moment.*
 
 ## Install
 
