@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.8.2 — 2026-07-04
+
+Title bar: the Now Playing tab is now the clean white record icon (no wordmark text), with all the tabs evenly spaced.
+
 ## v3.8.1 — 2026-07-04
 
 Title bar tidy-up: brought back the white Vinyl wordmark next to the logo and evened out the spacing between the tabs.
