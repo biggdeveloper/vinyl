@@ -9,7 +9,7 @@ Free, no account, no login.
 
 [**⬇ Download for Windows**](https://vinyl.bigg.dev/VinylSetup.exe) · [vinyl.bigg.dev](https://vinyl.bigg.dev) · [Changelog](https://vinyl.bigg.dev/changelog)
 
-<img src="https://vinyl.bigg.dev/shot_now.png" width="360" alt="Vinyl — now playing">
+<img src="https://vinyl.bigg.dev/screenshot-hero.png" width="330" alt="Vinyl — playing FE!N by Travis Scott, with the audio-reactive visualizer">
 
 </div>
 
