@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.6.0 — 2026-07-03
+
+Renamed Friends to Following (it's a one-way follow), and profiles now show a follower count.
+
 ## v3.5.1 — 2026-07-03
 
 Hotfix: v3.5.0 could fail to start on some installs (a missing bundled module). Fixed.
