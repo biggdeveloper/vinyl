@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.8.1 — 2026-07-04
+
+Title bar tidy-up: brought back the white Vinyl wordmark next to the logo and evened out the spacing between the tabs.
+
 ## v3.8.0 — 2026-07-04
 
 Cleaner title bar: the Vinyl logo top-left is now the Now Playing button, with the other tabs (Following, Top 50, Profile, Settings) right beside it instead of over by the window buttons.
