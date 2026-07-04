@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.9.1 — 2026-07-04
+
+Removed the Wrapped screen for now — but Vinyl keeps quietly recording your listening history in the background, so it can come back richer later.
+
 ## v3.9.0 — 2026-07-04
 
 NEW: Vinyl Wrapped. Open your Wrapped from your profile for a shareable recap of your listening — top artists, #1 song, minutes, and your listening 'vibe' — save it as an image and share it anywhere. Vinyl now also logs your play history so future Wrappeds get even richer.
