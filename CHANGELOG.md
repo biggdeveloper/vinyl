@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.6.3 — 2026-07-04
+
+Lyrics feel smoother now: at the start of a song they gently glide up into place, and the scroll between lines is slower and calmer instead of snapping.
+
 ## v3.6.2 — 2026-07-03
 
 Polished the live lyrics: the current line stands out more, already-sung lines fade into a soft trail instead of a wall of colour, and lines dissolve smoothly at the edges.
