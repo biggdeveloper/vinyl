@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.9.0 — 2026-07-04
+
+NEW: Vinyl Wrapped. Open your Wrapped from your profile for a shareable recap of your listening — top artists, #1 song, minutes, and your listening 'vibe' — save it as an image and share it anywhere. Vinyl now also logs your play history so future Wrappeds get even richer.
+
 ## v3.8.3 — 2026-07-04
 
 Fixed the nav icons sometimes becoming unclickable after rapid clicking — the window-drag no longer triggers on a plain click, only when you actually drag the title bar.
