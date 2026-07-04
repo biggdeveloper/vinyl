@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.8.0 — 2026-07-04
+
+Cleaner title bar: the Vinyl logo top-left is now the Now Playing button, with the other tabs (Following, Top 50, Profile, Settings) right beside it instead of over by the window buttons.
+
 ## v3.7.1 — 2026-07-04
 
 Fixed the 'listened' time getting cut off on the profile stat card — it now uses a compact format (38h 24m) that fits.
