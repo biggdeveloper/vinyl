@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.8.3 — 2026-07-04
+
+Fixed the nav icons sometimes becoming unclickable after rapid clicking — the window-drag no longer triggers on a plain click, only when you actually drag the title bar.
+
 ## v3.8.2 — 2026-07-04
 
 Title bar: the Now Playing tab is now the clean white record icon (no wordmark text), with all the tabs evenly spaced.
