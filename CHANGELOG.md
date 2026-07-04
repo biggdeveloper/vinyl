@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.5.1 — 2026-07-03
+
+Hotfix: v3.5.0 could fail to start on some installs (a missing bundled module). Fixed.
+
 ## v3.5.0 — 2026-07-03
 
 New: Friends. Follow people from their profile or the leaderboard, then see what everyone you follow is playing right now — live, in one feed. Vinyl is a social music app now.
