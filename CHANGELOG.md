@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.6.1 — 2026-07-03
+
+Album covers now work for songs in any language (Russian, Japanese, etc.) — a bug was blocking non-English titles. Missing covers on your existing top songs get filled in automatically too.
+
 ## v3.6.0 — 2026-07-03
 
 Renamed Friends to Following (it's a one-way follow), and profiles now show a follower count.
