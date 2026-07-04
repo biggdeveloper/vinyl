@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.7.0 — 2026-07-04
+
+Vinyl is now a fixed-size player window — no more resizing or maximizing into a giant fullscreen app. It opens at a clean, compact size (and still fits smaller laptop screens).
+
 ## v3.6.4 — 2026-07-04
 
 Profile fixes: a long username no longer pushes the Follow button off-screen, the stat cards now shrink to fit smaller windows, and the Following list rows got the glass card style.
