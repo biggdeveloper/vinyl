@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.4.0 — 2026-07-03
+
+Under-the-hood: downloads now count real new installs only (auto-updates no longer inflate the number).
+
 ## v3.3.0 — 2026-07-03
 
 Browser detection now only mirrors real music sites - no more random web audio showing up. SoundCloud is recognized instantly. Live 'listening right now' cards on profiles refresh much faster.
