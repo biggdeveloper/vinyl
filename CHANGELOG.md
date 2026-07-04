@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.6.4 — 2026-07-04
+
+Profile fixes: a long username no longer pushes the Follow button off-screen, the stat cards now shrink to fit smaller windows, and the Following list rows got the glass card style.
+
 ## v3.6.3 — 2026-07-04
 
 Lyrics feel smoother now: at the start of a song they gently glide up into place, and the scroll between lines is slower and calmer instead of snapping.
