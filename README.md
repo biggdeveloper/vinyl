@@ -34,9 +34,11 @@ playback from Windows itself, so there's nothing to connect or sign into.
 ## Screenshots
 
 <div align="center">
-<img src="https://vinyl.bigg.dev/ss-fein-profile.png" width="330" alt="A music profile with badges, a live 'listening right now' card, top songs and top artists">
-&nbsp;&nbsp;
-<img src="https://vinyl.bigg.dev/ss-fein-top50.png" width="330" alt="The Weekly Top 50 leaderboard with live listening indicators">
+
+<img src="https://vinyl.bigg.dev/ss-fein-profile.png" width="340" alt="A music profile with badges, a live 'listening right now' card, top songs and top artists">
+
+<img src="https://vinyl.bigg.dev/ss-fein-top50.png" width="440" alt="The Weekly Top 50 leaderboard with live listening indicators">
+
 </div>
 
 *Real profiles and a real leaderboard — the live "listening right now" card
