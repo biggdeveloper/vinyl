@@ -4,8 +4,8 @@
 
 **Your music, live in Discord.**
 
-Synced lyrics, spinning album art and music profiles — from **any** player.
-Free, no account, no login.
+Synced lyrics, spinning album art, and music profiles you can follow —
+from **any** player. Free, no account, no login.
 
 [**⬇ Download for Windows**](https://vinyl.bigg.dev/VinylSetup.exe) · [vinyl.bigg.dev](https://vinyl.bigg.dev) · [Changelog](https://vinyl.bigg.dev/changelog)
 
@@ -23,6 +23,9 @@ Free, no account, no login.
   app and can show on your status line by line.
 - **Music profiles** — badges, top artists and songs, listening streaks, and
   a live "listening right now" card your friends can open in one click.
+- **Following** — follow anyone from their profile or the leaderboard, then
+  see everything the people you follow are playing right now in one live
+  feed. Profiles show your follower count.
 - **Weekly Top 50** — a fresh leaderboard race every week for who listened
   the most.
 - **Audio-reactive visualizer** — background lights and the record lock onto
