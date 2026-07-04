@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.7.1 — 2026-07-04
+
+Fixed the 'listened' time getting cut off on the profile stat card — it now uses a compact format (38h 24m) that fits.
+
 ## v3.7.0 — 2026-07-04
 
 Vinyl is now a fixed-size player window — no more resizing or maximizing into a giant fullscreen app. It opens at a clean, compact size (and still fits smaller laptop screens).
